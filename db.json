@@ -1,0 +1,13 @@
+{ "total_size":6, "type_id":2, "offset":0,
+
+"products":[{
+
+"id":1, "name":"dhosa wala", "description":"skdfojiofjgvkldmakjiojiosjfiou", "price":12, "stars":4, "img":"assets/app_photas/dhosa2.jpg", "location":"canada", "createAt":"gujrat", "updateAt":"india", "typeId":"usa" },
+
+{ "id":2, "name":"dhosa wala", "description":"skdfojiofjgvkldmakjiojiosjfiou", "price":12, "stars":4, "img":"assets/app_photas/dhosa2.jpg", "location":"canada", "createAt":"gujrat", "updateAt":"india", "typeId":"usa" }, { "id":3, "name":"dhosa wala", "description":"skdfojiofjgvkldmakjiojiosjfiou", "price":12, "stars":4, "img":"assets/app_photas/dhosa2.jpg", "location":"canada", "createAt":"gujrat", "updateAt":"india", "typeId":"usa" },
+
+{ "id":4, "name":"dhosa wala", "description":"skdfojiofjgvkldmakjiojiosjfiou", "price":12, "stars":4, "img":"assets/app_photas/dhosa2.jpg", "location":"canada", "createAt":"gujrat", "updateAt":"india", "typeId":"usa" },
+
+{ "id":5, "name":"dhosa wala", "description":"skdfojiofjgvkldmakjiojiosjfiou", "price":12, "stars":4, "img":"assets/app_photas/dhosa2.jpg", "location":"canada", "createAt":"gujrat", "updateAt":"india", "typeId":"usa" },
+
+{ "id":6, "name":"dhosa wala", "description":"skdfojiofjgvkldmakjiojiosjfiou", "price":12, "stars":4, "img":"assets/app_photas/dhosa2.jpg", "location":"canada", "createAt":"gujrat", "updateAt":"india", "typeId":"usa" }] }
